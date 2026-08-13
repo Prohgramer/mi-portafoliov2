@@ -151,7 +151,7 @@ const PROJECTS = [
     description:
       'Plataforma para guardar apuntes de código organizados por lenguaje, pensada para quienes trabajan con múltiples stacks a la vez.',
     tech: ['JavaScript', 'HTML', 'CSS'],
-    link: 'ayuda-sintaxis.vercel.app',
+    link: 'https://ayuda-sintaxis.vercel.app/',
     year: '2025',
   },
   {
