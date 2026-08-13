@@ -147,19 +147,11 @@ const SKILLS = [
 
 const PROJECTS = [
   {
-    title: 'Comparador de Terrenos',
-    description:
-      'Plataforma web para buscar, comparar y recomendar terrenos, con mapas interactivos, favoritos y recomendaciones personalizadas.',
-    tech: ['React', 'Node.js', 'PostgreSQL', 'Tailwind'],
-    link: '#',
-    year: '2026',
-  },
-  {
     title: 'Cuaderno de Sintaxis',
     description:
       'Plataforma para guardar apuntes de código organizados por lenguaje, pensada para quienes trabajan con múltiples stacks a la vez.',
     tech: ['JavaScript', 'HTML', 'CSS'],
-    link: '#',
+    link: 'ayuda-sintaxis.vercel.app',
     year: '2025',
   },
   {
