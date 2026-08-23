@@ -85,7 +85,7 @@ const EXPERIENCE = [
     role: 'Terrago - decición de terreno con IA',
     company: 'Proyecto final de grado',
     client: null,
-    period: 'Febrero 2026 — Noviembre 2026',
+    period: 'Febrero 2025 — Noviembre 2025',
     current: false,
     stack: ['Python', 'Flask', 'React', 'APIs','IA','OPENAI']
   },
@@ -153,6 +153,22 @@ const PROJECTS = [
     tech: ['JavaScript', 'HTML', 'CSS'],
     link: 'https://ayuda-sintaxis.vercel.app/',
     year: '2025',
+  },
+  {
+    title: 'Analizador de Logs con IA',
+    description:
+      'En este proyecto se desarrolló un sistema que analiza logs de aplicaciones y genera reportes automáticos con ayuda de inteligencia artificial, facilitando la identificación de errores y patrones. psdt: tarda 30 seg al abrir la web, ya que utilicé render para el despliegue.',
+    tech: ['Python', 'Javascript', 'Gemini IA'],
+    link: 'https://log-doctor.onrender.com',
+    year: '2026',
+  },
+  {
+    title: 'Animacion 3d con react-three-fiber',
+    description:
+      'Con este proyecto me tome la libertad de explorar el mundo de la animación 3D en la web, utilizando React y Three.js para crear experiencias interactivas y visualmente atractivas.',
+    tech: ['React', 'react-three-fiber', 'CSS','animaciones'],
+    link: 'https://three-proyecto.vercel.app/',
+    year: '2026',
   },
   {
     title: 'Portafolio Personal',
