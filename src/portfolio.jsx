@@ -171,6 +171,14 @@ const PROJECTS = [
     year: '2026',
   },
   {
+    title: 'Generador de QR con React',
+    description:
+      'Este proyecto es un generador de códigos QR construido con React y la librería QRCODE.js, permitiendo a los usuarios crear códigos QR personalizados de manera rápida y sencilla.',
+    tech: ['React', 'QRCODE.js', 'CSS'],
+    link: 'https://generador-qr-pi.vercel.app/',
+    year: '2026',
+  },
+  {
     title: 'Portafolio Personal',
     description:
       'Este sitio: portafolio construido con React y Tailwind, con animaciones y diseño responsive orientado al detalle tipográfico.',
