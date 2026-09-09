@@ -179,6 +179,14 @@ const PROJECTS = [
     year: '2026',
   },
   {
+    title: 'Backend de reservas con Node.js + demo',
+    description:
+      'este proyecto es un backend de reservas construido con Node.js, que permite a los usuarios gestionar reservas de manera eficiente. Incluye una demo funcional para probar la API. psdt: trabajando en el front actualmente',
+    tech: ['Node.js', 'tour.js', 'Postgres','Docker'],
+    link: 'https://reservas-api-ogh3.onrender.com/',
+    year: '2026',
+  },
+  {
     title: 'Portafolio Personal',
     description:
       'Este sitio: portafolio construido con React y Tailwind, con animaciones y diseño responsive orientado al detalle tipográfico.',
