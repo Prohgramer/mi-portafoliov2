@@ -40,12 +40,12 @@ const LinkedinIcon = ({ size = 16, className = '' }) => (
 
 const PROFILE = {
   name: 'Lucas Villagra',
-  role: 'Backend & Oracle Developer',
+  role: 'Backend & Frontend Developer',
   location: 'Luque, Paraguay',
   email: 'lucas-villagra@outlook.com',
   phone: '0982 867007',
   summary:
-    'Ingeniero informático enfocado en desarrollo backend y bases de datos Oracle. Trabajo en el sector financiero construyendo y manteniendo servicios para bancos y financieras. Me destaco por aprender rápido, adaptarme a nuevos desafíos y colaborar en equipos ágiles.',
+    'Ingeniero informático enfocado en desarrollo fullstack. Trabajo en el sector financiero construyendo y manteniendo servicios para bancos y financieras. Me destaco por aprender rápido, adaptarme a nuevos desafíos y colaborar en equipos ágiles.',
 };
 
 const EXPERIENCE = [
@@ -407,7 +407,7 @@ const Portfolio = () => {
             {[
               { value: '3+', label: 'Años de exp.' },
               { value: '4', label: 'Empresas' },
-              { value: 'Oracle', label: 'Especialidad' },
+              { value: 'fullstack', label: 'Especialidad' },
               { value: 'Luque', label: 'Paraguay' },
             ].map((stat) => (
               <div key={stat.label} className="bg-zinc-950 px-4 py-5">
