@@ -179,11 +179,11 @@ const PROJECTS = [
     year: '2026',
   },
   {
-    title: 'Backend de reservas con Node.js + demo',
+    title: 'Pizarra interactiva',
     description:
-      'este proyecto es un backend de reservas construido con Node.js, que permite a los usuarios gestionar reservas de manera eficiente. Incluye una demo funcional para probar la API. psdt: trabajando en el front actualmente',
-    tech: ['Node.js', 'tour.js', 'Postgres','Docker'],
-    link: 'https://reservas-api-ogh3.onrender.com/',
+      'Este proyecto es una pizarra interactiva construida con React y Canvas, que permite a los usuarios dibujar, escribir y colaborar en tiempo real. Incluyendo una base de datos para guardar las notas y utilizando websockets para la comunicación en tiempo real.',
+    tech: ['Node.js', 'React.js', 'Postgres','Docker','Typescript'],
+    link: 'https://pizarra-interactiva-lime.vercel.app/',
     year: '2026',
   },
   {
