@@ -147,27 +147,11 @@ const SKILLS = [
 
 const PROJECTS = [
   {
-    title: 'Cuaderno de Sintaxis',
+    title: 'Pizarra interactiva',
     description:
-      'Plataforma para guardar apuntes de código organizados por lenguaje, pensada para quienes trabajan con múltiples stacks a la vez.',
-    tech: ['JavaScript', 'HTML', 'CSS'],
-    link: 'https://ayuda-sintaxis.vercel.app/',
-    year: '2025',
-  },
-  {
-    title: 'Analizador de Logs con IA',
-    description:
-      'En este proyecto se desarrolló un sistema que analiza logs de aplicaciones y genera reportes automáticos con ayuda de inteligencia artificial, facilitando la identificación de errores y patrones. psdt: tarda 30 seg al abrir la web, ya que utilicé render para el despliegue.',
-    tech: ['Python', 'Javascript', 'Gemini IA'],
-    link: 'https://log-doctor.onrender.com',
-    year: '2026',
-  },
-  {
-    title: 'Animacion 3d con react-three-fiber',
-    description:
-      'Con este proyecto me tome la libertad de explorar el mundo de la animación 3D en la web, utilizando React y Three.js para crear experiencias interactivas y visualmente atractivas.',
-    tech: ['React', 'react-three-fiber', 'CSS','animaciones'],
-    link: 'https://three-proyecto.vercel.app/',
+      'Este proyecto es una pizarra interactiva construida con React y Canvas, que permite a los usuarios dibujar, escribir y colaborar en tiempo real. Incluyendo una base de datos para guardar las notas y utilizando websockets para la comunicación en tiempo real.',
+    tech: ['Node.js', 'React.js', 'Postgres','Docker','Typescript'],
+    link: 'https://pizarra-interactiva-lime.vercel.app/',
     year: '2026',
   },
   {
@@ -179,11 +163,27 @@ const PROJECTS = [
     year: '2026',
   },
   {
-    title: 'Pizarra interactiva',
+    title: 'Analizador de Logs con IA',
     description:
-      'Este proyecto es una pizarra interactiva construida con React y Canvas, que permite a los usuarios dibujar, escribir y colaborar en tiempo real. Incluyendo una base de datos para guardar las notas y utilizando websockets para la comunicación en tiempo real.',
-    tech: ['Node.js', 'React.js', 'Postgres','Docker','Typescript'],
-    link: 'https://pizarra-interactiva-lime.vercel.app/',
+      'En este proyecto se desarrolló un sistema que analiza logs de aplicaciones y genera reportes automáticos con ayuda de inteligencia artificial, facilitando la identificación de errores y patrones. psdt: tarda 30 seg al abrir la web, ya que utilicé render para el despliegue.',
+    tech: ['Python', 'Javascript', 'Gemini IA'],
+    link: 'https://log-doctor.onrender.com',
+    year: '2026',
+  },
+  {
+    title: 'Cuaderno de Sintaxis',
+    description:
+      'Plataforma para guardar apuntes de código organizados por lenguaje, pensada para quienes trabajan con múltiples stacks a la vez.',
+    tech: ['JavaScript', 'HTML', 'CSS'],
+    link: 'https://ayuda-sintaxis.vercel.app/',
+    year: '2025',
+  },
+  {
+    title: 'Animacion 3d con react-three-fiber',
+    description:
+      'Con este proyecto me tome la libertad de explorar el mundo de la animación 3D en la web, utilizando React y Three.js para crear experiencias interactivas y visualmente atractivas.',
+    tech: ['React', 'react-three-fiber', 'CSS','animaciones'],
+    link: 'https://three-proyecto.vercel.app/',
     year: '2026',
   },
   {
