@@ -179,11 +179,11 @@ const PROJECTS = [
     year: '2025',
   },
   {
-    title: 'Animacion 3d con react-three-fiber',
+    title: 'Pagina web tipo Parallax scroll',
     description:
-      'Con este proyecto me tome la libertad de explorar el mundo de la animación 3D en la web, utilizando React y Three.js para crear experiencias interactivas y visualmente atractivas.',
-    tech: ['React', 'react-three-fiber', 'CSS','animaciones'],
-    link: 'https://three-proyecto.vercel.app/',
+      'Para este proyecto, cree una pagina tipo parallax scroll, publicitando una marca, utilizando animaciones y efectos visuales para mejorar la experiencia del usuario.',
+    tech: ['Javascript', 'CSS','animaciones'],
+    link: 'https://neviza.vercel.app/',
     year: '2026',
   },
   {
